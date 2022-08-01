@@ -16,8 +16,7 @@
 
 代码来源：https://www.xianmin.org/post/hugo-shortcode-douban-item/
 
-代码地址：
-
+代码地址：https://github.com/guangzhengli/awesome-hugo-shortcodes/blob/master/shortcodes.html/douban.html
 
 ## bilibili
 使用方式：
@@ -30,5 +29,7 @@
 结果展示：
 ![PfVPMD](https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/PfVPMD.png)
 
-代码来源：
+代码来源：https://github.com/guangzhengli/hugo-theme-ladder/blob/master/layouts/shortcodes/bilibili.html
+
+代码地址：https://github.com/guangzhengli/awesome-hugo-shortcodes/blob/master/shortcodes.html/bilibili.html
 
